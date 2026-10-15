@@ -87,22 +87,22 @@ Each file contains the SQL query for the corresponding business request.
 
 | Query | File |
 |---:|---|
-| 1 | [Query_1.sql](sql_queries/Query_1.sql) |
-| 2 | [Query_2.sql](sql_queries/Query_2.sql) |
-| 3 | [Query_3.sql](sql_queries/Query_3.sql) |
-| 4 | [Query_4.sql](sql_queries/Query_4.sql) |
-| 5 | [Query_5.sql](sql_queries/Query_5.sql) |
-| 6 | [Query_6.sql](sql_queries/Query_6.sql) |
-| 7 | [Query_7.sql](sql_queries/Query_7.sql) |
-| 8 | [Query_8.sql](sql_queries/Query_8.sql) |
-| 9 | [Query_9.sql](sql_queries/Query_9.sql) |
-| 10 | [Query_10.sql](sql_queries/Query_10.sql) |
+| 1 | [Query_1.sql](Query_1.sql) |
+| 2 | [Query_2.sql](Query_2.sql) |
+| 3 | [Query_3.sql](Query_3.sql) |
+| 4 | [Query_4.sql](Query_4.sql) |
+| 5 | [Query_5.sql](Query_5.sql) |
+| 6 | [Query_6.sql](Query_6.sql) |
+| 7 | [Query_7.sql](Query_7.sql) |
+| 8 | [Query_8.sql](Query_8.sql) |
+| 9 | [Query_9.sql](Query_9.sql) |
+| 10 | [Query_10.sql](Query_10.sql) |
 
 ### Presentation
 
 The presentation includes the business requests, SQL queries, query results, and key insights.
 
-[**View the Consumer Goods Ad Hoc Analysis presentation (PDF)**](presentation/Consumer_goods_ad_hoc.pdf)
+[**View the Consumer Goods Ad Hoc Analysis presentation (PDF)**](Consumer_goods_ad_hoc.pdf)
 
 ## What I Practised
 
