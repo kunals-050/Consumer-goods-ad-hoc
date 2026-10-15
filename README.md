@@ -87,7 +87,7 @@ Each file contains the SQL query for the corresponding business request.
 
 | Query | File |
 |---:|---|
-| 1 | [Query_1.sql](Query_1.sql) |
+| 1 | [Query_1.sql](SQL_queries/Query_1.sql) |
 | 2 | [Query_2.sql](Query_2.sql) |
 | 3 | [Query_3.sql](Query_3.sql) |
 | 4 | [Query_4.sql](Query_4.sql) |
