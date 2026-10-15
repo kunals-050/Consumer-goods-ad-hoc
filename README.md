@@ -47,7 +47,7 @@ The database contains five tables. The two dimension tables provide customer and
 
 The analysis uses these tables to connect sales records with product and customer attributes, and to evaluate pricing and discount information.
 
-![AtliQ Hardware SQL data model](images/data_model.png)
+![AtliQ Hardware SQL data model](data_model.png)
 
 ## Business Requests & SQL Analysis
 
